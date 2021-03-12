@@ -13,7 +13,6 @@ function isPalindrome(value) {
   }
   return true;
 }
-// ho fatto copia incolla fino a qui
 var parola = prompt('inserisci una parola');
 var result = isPalindrome(parola);
 if (result) {
